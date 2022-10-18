@@ -29,3 +29,4 @@ A Good Looking Home Page of RØDE, it is actually the clone of RØDE. it is pure
 
 
 ## Deployed Link
+[RODE UI Clone](https://paddu-rode-clone.netlify.app/)
